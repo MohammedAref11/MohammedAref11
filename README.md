@@ -9,8 +9,8 @@ I am in my journey of learning Front-end development any feedback will be apprec
 
 ## 🛠 Skills 
 <div align="left"> 
-  <img width="45" height="45" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/html.png" alt="HTML" title="HTML"/>
-  <img width="45" height="45" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/css.png" alt="CSS" title="CSS"/>
-  <img width="45" height="45" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png" alt="Git" title="Git"/>
+  <img src="https://www.readmecodegen.com/api/social-icon?name=html5&size=45" alt="html 5" /> 
+  <img src="https://www.readmecodegen.com/api/social-icon?name=css3&size=46" alt="css3" />
+  <img src="https://www.readmecodegen.com/api/social-icon?name=git&size=46" alt="git" />
 </div>
 
