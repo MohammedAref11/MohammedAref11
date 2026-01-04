@@ -1,7 +1,7 @@
 # Hi there, I'm Mohammed 👋
 
 ## 👨‍💻 About me 
-- 🌱 I’m currently learning Front 
+- 🌱 I’m currently learning Front-end
 
 
 
